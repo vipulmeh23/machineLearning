@@ -2,8 +2,9 @@
 title: "Lab 1 - Exploring Data"
 author: "Vipul Mehra"
 date: "9/19/2017"
-output:
+output:  
   html_document: default
+  keep_md: true
   pdf_document: default
 ---
 ## Include Paths
